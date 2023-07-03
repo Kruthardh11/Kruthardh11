@@ -4,7 +4,7 @@ I’m currently learning reactjs.
 I’m looking to collaborate on any projects which will improve my skills.
 You can reach me through my email - tirunaharipandu@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Kruthardh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kruthardh11)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Kruthardh11/Kruthardh11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
