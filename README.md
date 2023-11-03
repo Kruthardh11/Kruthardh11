@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Kruthardh
 I’m interested in web development and also full stack development.
-I’m currently learning reactjs.
 I’m looking to collaborate on any projects which will improve my skills.
 You can reach me through my email - tirunaharipandu@gmail.com
 
